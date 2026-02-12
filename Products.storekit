@@ -1,0 +1,262 @@
+{
+  "appPolicies" : {
+    "eula" : "",
+    "policies" : [
+      {
+        "locale" : "en_US",
+        "policyText" : "",
+        "policyURL" : ""
+      }
+    ]
+  },
+  "identifier" : "C20B99C2-0A8A-4E9F-8CC4-1E7A8F0B9D5E",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "29.99",
+      "familyShareable" : false,
+      "internalID" : "1",
+      "localizations" : [
+        {
+          "description" : "Lernen Sie den eleganten Wiener Walzer von Grund auf",
+          "displayName" : "Wiener Walzer für Anfänger",
+          "locale" : "de"
+        }
+      ],
+      "productID" : "com.tatianadrexler.dance.waltz_beginner",
+      "referenceName" : "Wiener Walzer für Anfänger",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "49.99",
+      "familyShareable" : false,
+      "internalID" : "2",
+      "localizations" : [
+        {
+          "description" : "Intensivkurs für leidenschaftlichen Tango Argentino",
+          "displayName" : "Tango Argentino Intensiv",
+          "locale" : "de"
+        }
+      ],
+      "productID" : "com.tatianadrexler.dance.tango_intensive",
+      "referenceName" : "Tango Argentino Intensiv",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "59.99",
+      "familyShareable" : false,
+      "internalID" : "3",
+      "localizations" : [
+        {
+          "description" : "Meistern Sie die feurige Salsa Cubana",
+          "displayName" : "Salsa Cubana Masterclass",
+          "locale" : "de"
+        }
+      ],
+      "productID" : "com.tatianadrexler.dance.salsa_masterclass",
+      "referenceName" : "Salsa Cubana Masterclass",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "24.99",
+      "familyShareable" : false,
+      "internalID" : "4",
+      "localizations" : [
+        {
+          "description" : "Die Grundlagen des beliebten Discofox",
+          "displayName" : "Discofox Basics",
+          "locale" : "de"
+        }
+      ],
+      "productID" : "com.tatianadrexler.dance.discofox_basics",
+      "referenceName" : "Discofox Basics",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "29.99",
+      "familyShareable" : false,
+      "internalID" : "7",
+      "localizations" : [
+        {
+          "description" : "2 Wochen personalisierter Trainingsplan - perfekt zum Reinschnuppern",
+          "displayName" : "Basic Trainingsplan",
+          "locale" : "de"
+        }
+      ],
+      "productID" : "com.TanzenmitTatianaDrexler.trainingplan.basic",
+      "referenceName" : "Basic Trainingsplan",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "49.99",
+      "familyShareable" : false,
+      "internalID" : "8",
+      "localizations" : [
+        {
+          "description" : "4 Wochen strukturiertes Training für messbare Fortschritte",
+          "displayName" : "Standard Trainingsplan",
+          "locale" : "de"
+        }
+      ],
+      "productID" : "com.TanzenmitTatianaDrexler.trainingplan.standard",
+      "referenceName" : "Standard Trainingsplan",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "89.99",
+      "familyShareable" : false,
+      "internalID" : "9",
+      "localizations" : [
+        {
+          "description" : "8 Wochen intensives Programm für ambitionierte Tänzer",
+          "displayName" : "Premium Trainingsplan",
+          "locale" : "de"
+        }
+      ],
+      "productID" : "com.TanzenmitTatianaDrexler.trainingplan.premium",
+      "referenceName" : "Premium Trainingsplan",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "149.99",
+      "familyShareable" : false,
+      "internalID" : "10",
+      "localizations" : [
+        {
+          "description" : "12 Wochen Rundum-Transformation mit persönlicher Betreuung",
+          "displayName" : "Intensiv Trainingsplan",
+          "locale" : "de"
+        }
+      ],
+      "productID" : "com.TanzenmitTatianaDrexler.trainingplan.intensive",
+      "referenceName" : "Intensiv Trainingsplan",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+    "_askToBuyEnabled" : false,
+    "_billingGracePeriodEnabled" : false,
+    "_billingIssuesEnabled" : false,
+    "_disableDialogs" : false,
+    "_failTransactionsEnabled" : false,
+    "_locale" : "de",
+    "_renewalBillingIssuesEnabled" : false,
+    "_storefront" : "DEU",
+    "_storeKitErrors" : [
+      {
+        "enabled" : false,
+        "name" : "Load Products"
+      },
+      {
+        "enabled" : false,
+        "name" : "Purchase"
+      },
+      {
+        "enabled" : false,
+        "name" : "Verification"
+      },
+      {
+        "enabled" : false,
+        "name" : "App Store Sync"
+      },
+      {
+        "enabled" : false,
+        "name" : "Subscription Status"
+      },
+      {
+        "enabled" : false,
+        "name" : "App Transaction"
+      },
+      {
+        "enabled" : false,
+        "name" : "Manage Subscriptions Sheet"
+      },
+      {
+        "enabled" : false,
+        "name" : "Refund Request Sheet"
+      },
+      {
+        "enabled" : false,
+        "name" : "Offer Code Redeem Sheet"
+      }
+    ],
+    "_timeRate" : 0
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "D5A8C1E2-3B4F-5A6D-7E8F-9A0B1C2D3E4F",
+      "localizations" : [
+        {
+          "description" : "Zugang zu allen Tanzkursen",
+          "displayName" : "Dance Premium",
+          "locale" : "de"
+        }
+      ],
+      "name" : "Premium Subscription",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "9.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "5",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Monatlicher Zugang zu allen Kursen",
+              "displayName" : "Premium Monatlich",
+              "locale" : "de"
+            }
+          ],
+          "productID" : "com.tatianadrexler.dance.subscription.monthly",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "Premium Monatlich",
+          "subscriptionGroupID" : "D5A8C1E2-3B4F-5A6D-7E8F-9A0B1C2D3E4F",
+          "type" : "RecurringSubscription",
+          "winbackOffers" : [
+
+          ]
+        },
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "71.99",
+          "familyShareable" : false,
+          "groupNumber" : 2,
+          "internalID" : "6",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Jährlicher Zugang zu allen Kursen - 40% Rabatt",
+              "displayName" : "Premium Jährlich",
+              "locale" : "de"
+            }
+          ],
+          "productID" : "com.tatianadrexler.dance.subscription.yearly",
+          "recurringSubscriptionPeriod" : "P1Y",
+          "referenceName" : "Premium Jährlich",
+          "subscriptionGroupID" : "D5A8C1E2-3B4F-5A6D-7E8F-9A0B1C2D3E4F",
+          "type" : "RecurringSubscription",
+          "winbackOffers" : [
+
+          ]
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 4,
+    "minor" : 0
+  }
+}
